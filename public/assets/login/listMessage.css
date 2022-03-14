@@ -1,0 +1,18 @@
+.list{
+    background-color: #deffd1;
+    height: 75px;
+    width: 600px;
+    border-radius: 10px;
+    border: black 5px 5px 5px;
+}
+
+.list h4{
+    color: rgb(49, 49, 49);
+    margin-left: 35px;
+    text-align: left;
+}
+.list small{
+    color: rgb(59, 175, 59);
+    margin-left: 35px;
+    text-align: left;
+}
